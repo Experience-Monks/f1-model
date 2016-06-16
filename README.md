@@ -2,7 +2,7 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
-* THIS MODULE IS DEPRECATED SINCE PARSERS ARE HANDLED DIFFERENTLY NOW IN F1 *
+*THIS MODULE IS DEPRECATED SINCE PARSERS ARE HANDLED DIFFERENTLY NOW IN F1*
 
 f1 animation parsing functions that will copy values to a model.
 
