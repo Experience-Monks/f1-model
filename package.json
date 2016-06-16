@@ -1,6 +1,6 @@
 {
   "name": "f1-model",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "f1 animation parsing functions that will copy values to a model.",
   "main": "index.js",
   "license": "MIT",
